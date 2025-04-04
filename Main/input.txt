@@ -1,0 +1,5 @@
+Armstrong 5000
+emirp 113
+Armstrong 201
+emirp 400
+exit
